@@ -4,7 +4,7 @@ ___
 ## cd command
 **a. with no arguements:**
 
-i. PHOTO
+i. ![Image](cdNoCommand.png)
 
 ii. *Working directory when command was run:*
 `/home`
@@ -17,7 +17,7 @@ iv. *Is this an error, if so then why?:*
 
 **b. with a path to a directory as an argument:**
 
-i. PHOTO
+i. ![Image](cdWithDirecComm.png)
 
 ii. *Working directory when command was run:*
 `/home`
@@ -30,7 +30,7 @@ iv. *Is this an error, if so then why?:*
 
 **c. with a path to a file as an argument:**
 
-i. PHOTO
+i. ![Image](cdWithFileComm.png)
 
 ii. *Working directory when command was run:*
 `/home/lecture1`
@@ -44,7 +44,7 @@ ___
 ## ls command
 **a. with no arguements:**
 
-i. PHOTO
+i. ![Image](lsNoCommand.png)
 
 ii. *Working directory when command was run:*
 `\home`
@@ -57,7 +57,7 @@ iv. *Is this an error, if so then why?:*
 
 **b. with a path to a directory as an argument:**
 
-i. PHOTO
+i. ![Image](lsWithDirecComm.png)
 
 ii. *Working directory when command was run:*
 `\home`
@@ -70,7 +70,7 @@ iv. *Is this an error, if so then why?:*
 
 **c. with a path to a file as an argument:**
 
-i. PHOTO
+i. ![Image](lsWithFileComm.png)
 
 ii. *Working directory when command was run:*
 `/home/lecture1`
@@ -84,7 +84,7 @@ ___
 ## cat command
 **a. with no arguements:**
 
-i. PHOTO
+i. ![Image](catNoCommand.png)
 
 ii. *Working directory when command was run:*
 `\home\lecture1`
@@ -97,7 +97,7 @@ iv. *Is this an error, if so then why?:*
 
 **b. with a path to a directory as an argument:**
 
-i. PHOTO
+i. ![Image](catWithDirecComm.png)
 
 ii. *Working directory when command was run:*
 `/home`
@@ -110,7 +110,7 @@ iv. *Is this an error, if so then why?:*
 
 **c. with a path to a file as an argument:**
 
-i. PHOTO
+i. ![Image](catWithFileComm.png)
 
 ii. *Working directory when command was run:*
 `/home/lecture1/messages`
