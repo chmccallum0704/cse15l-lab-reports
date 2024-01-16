@@ -7,7 +7,7 @@ ___
 i. PHOTO
 
 ii. *Working directory when command was run:*
-> /home
+`/home`
 
 iii. *Why I got this output:*
 > I did not give the cd command a parameter, so cd did not change any directory.
@@ -20,7 +20,7 @@ iv. *Is this an error, if so then why?:*
 i. PHOTO
 
 ii. *Working directory when command was run:*
-> /home
+`/home`
 
 iii. *Why I got this output:*
 > the cd command with the lecture1/ arguement switches the current working directory to the given path.
@@ -33,7 +33,7 @@ iv. *Is this an error, if so then why?:*
 i. PHOTO
 
 ii. *Working directory when command was run:*
-> /home/lecture1
+`/home/lecture1`
 
 iii. *Why I got this output:*
 > cd is meant to navigate from path to path, not to a file. Hello.class is a file not a directory.
@@ -47,7 +47,7 @@ ___
 i. PHOTO
 
 ii. *Working directory when command was run:*
-> \home
+`\home`
 
 iii. *Why I got this output:*
 > ls listed the files at our given path, \home.
@@ -60,7 +60,7 @@ iv. *Is this an error, if so then why?:*
 i. PHOTO
 
 ii. *Working directory when command was run:*
-> \home
+`\home`
 
 iii. *Why I got this output:*
 > ls listed the files at the givien arguement, lecture1/.
@@ -73,7 +73,7 @@ iv. *Is this an error, if so then why?:*
 i. PHOTO
 
 ii. *Working directory when command was run:*
-> /home/lecture1
+`/home/lecture1`
 
 iii. *Why I got this output:*
 > ls lists the file name of the arguement given, Hello.java.
@@ -87,7 +87,7 @@ ___
 i. PHOTO
 
 ii. *Working directory when command was run:*
-> \home\lecture1
+`\home\lecture1`
 
 iii. *Why I got this output:*
 > I got this output, an empty newline, because the cat command does not have a file path as input.
@@ -100,7 +100,7 @@ iv. *Is this an error, if so then why?:*
 i. PHOTO
 
 ii. *Working directory when command was run:*
-> /home
+`/home`
 
 iii. *Why I got this output:*
 > I got this output, "cat: lecture1/: Is a directory" because the cat command is meant to print the contents of a file, not a directory/folder.
@@ -113,7 +113,7 @@ iv. *Is this an error, if so then why?:*
 i. PHOTO
 
 ii. *Working directory when command was run:*
-> /home/lecture1/messages
+`/home/lecture1/messages`
 
 iii. *Why I got this output:*
 > I got this output because the parameter I used for the cat command was my french translation file. The cat command then printed the text contents of that file. 
