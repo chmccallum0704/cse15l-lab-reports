@@ -1,6 +1,5 @@
 # Lab 1: Markdown, URLs and Paths
 Caitlin McCallum
-___
 ## cd command
 **a. with no arguements:**
 
@@ -120,4 +119,3 @@ I got this output because the parameter I used for the cat command was my french
 
 iv. *Is this an error, if so then why?:*
 No, this is not an error.
-___
